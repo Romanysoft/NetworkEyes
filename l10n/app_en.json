@@ -1,0 +1,71 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "When the network is unstable, it will tell you whether you can access the network or not.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.png}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Sometimes, Wifi, local connection our logo are normal, but we don't know why we send out email, or can't open web page, this time, NetworkEyes will tell you, you whether can be normal access to the Internet, simple and clear."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about NetworkEyes",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{3.18}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{NetworkEyes-v3.18-darwin-x64.zip}}",
+                        "size": "{{0.4MB}}",
+                        "downURL": "{{https://itunes.apple.com/us/app/networkeyes/id902946350?l=zh&ls=1&mt=12}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [          
+            {
+                "name": "{{NetworkEyes for Mac App Store}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/networkeyes/id902946350?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
