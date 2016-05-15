@@ -13,8 +13,10 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "When the network is unstable, it will tell you whether you can access the network or not.",
-        "BtnDownload": "Free Trial",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
+        "BtnBuyDescription": " | Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.png}}"
         ],
